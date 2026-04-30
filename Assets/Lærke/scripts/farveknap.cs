@@ -14,11 +14,11 @@ public class SkiftGruppe : MonoBehaviour
 
     void Start()
     {
-        gruppe1.SetActive(true);
-        gruppe2.SetActive(true);
-        gruppe3.SetActive(true);
-        gruppe4.SetActive(true);
-        gruppe5.SetActive(true);
+        gruppe1.SetActive(false);
+        gruppe2.SetActive(false);
+        gruppe3.SetActive(false);
+        gruppe4.SetActive(false);
+        gruppe5.SetActive(false);
         gruppeFarve.SetActive(false);
     }
 
