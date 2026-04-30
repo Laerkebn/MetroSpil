@@ -63,3 +63,5 @@ artifacts/
 
 # Publish output
 publish/
+.vscode
+*.slnx

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - SpilZone
   layers:
   - Default
   - TransparentFX
@@ -11,9 +12,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Dude
+  - "V\xE6g"
+  - DudeIgnore
   - 
   - 
   - 
@@ -38,14 +39,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: back
-    uniqueID: 1734456627
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: front
-    uniqueID: 532593477
+  - name: forggrund
+    uniqueID: 286813613
+    locked: 0
+  - name: mellemgrund
+    uniqueID: 4216997249
+    locked: 0
+  - name: baggrund
+    uniqueID: 1856802457
+    locked: 0
+  - name: UI lag
+    uniqueID: 1931730585
     locked: 0
   m_RenderingLayers:
   - Default
