@@ -6,7 +6,8 @@
 ._*
 
 # Custom folder icons
-Icon
+Icon
+
 
 # Volume root files
 .DocumentRevisions-V100
@@ -56,11 +57,6 @@ Icon
 
 # Debug symbols
 *.pdb
-
-# NuGet Packages
-*.nupkg
-**/[Pp]ackages/*
-!**/[Pp]ackages/build/
 
 # .NET build artifacts
 artifacts/
