@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 508832741458936252}
   - component: {fileID: -721129926340845258}
   - component: {fileID: 5801253391745939886}
+  - component: {fileID: 4590129113471431140}
   m_Layer: 6
   m_Name: player
   m_TagString: Player
@@ -199,3 +200,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bb7a152d9a474b57bfc212e5d64cc50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerLaunch
+--- !u!114 &4590129113471431140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1656210867053427844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a19467651cce4117a996cd3497a95ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: "Assembly-CSharp::DudeD\xF8d"
+  "d\xF8dSprite": {fileID: 3379282904487387072, guid: 5da3f1e464a1f4030b0e88d582e6fa5a, type: 3}
